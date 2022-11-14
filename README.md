@@ -2,6 +2,8 @@
 What we'll be building: https://learn-hasura-todo-app.netlify.com/
 
 
+<img alt="alt text" title="image Title" src="shot/shot1.jpeg" />
+
 ## Tutorial
 --------
 - [React](https://hasura.io/learn/graphql/react/introduction)
